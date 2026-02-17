@@ -27,7 +27,7 @@ export default function TruthDrillingApp() {
   const copyCommand = () => {
     const cmd = `curl -X POST https://kai-nova-sisters-protocol-kntws.vercel.app/api/v1/drill/register \\
   -H "Content-Type: application/json" \\
-  -d '{ "agentName": "MoltBot", "address": "0x..." }'`
+  -d '{ "agentName": "KaiNova_Agent_01", "address": "0x..." }'`
     navigator.clipboard.writeText(cmd)
     setCopied(true)
     setTimeout(() => setCopied(false), 2000)
@@ -188,7 +188,7 @@ export default function TruthDrillingApp() {
                         <div className="text-[var(--kai-primary)] break-all pr-8 opacity-80 group-hover:opacity-100 transition-opacity">
                           curl -X POST https://kai-nova-sisters-protocol-kntws.vercel.app/api/v1/drill/register \<br/>
                           &nbsp;&nbsp;-H "Content-Type: application/json" \<br/>
-                          &nbsp;&nbsp;-d '{`{ "agentName": "MoltBot", "address": "0x..." }`}'
+                          &nbsp;&nbsp;-d '{`{ "agentName": "KaiNova_Agent_01", "address": "0x..." }`}'
                         </div>
                       </div>
                     </div>
