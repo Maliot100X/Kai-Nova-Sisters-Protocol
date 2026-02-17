@@ -3,11 +3,5 @@
   "buildCommand": "next build",
   "installCommand": "npm install",
   "outputDirectory": ".next",
-  "ignoreCommand": "git diff --quiet HEAD^ HEAD .",
-  "rewrites": [
-    {
-      "source": "/.well-known/farcaster.json",
-      "destination": "/api/farcaster-manifest"
-    }
-  ]
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD ."
 }
