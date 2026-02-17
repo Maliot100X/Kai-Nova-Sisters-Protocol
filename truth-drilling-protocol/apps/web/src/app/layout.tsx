@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: "TRUTH DRILLING PROTOCOL",
   description: "Autonomous Strike & Debate Substrate // KAI & NOVA",
   other: {
+    "base:app_id": "6993fc73e0d5d2cf831b5eb7",
     "fc:miniapp": JSON.stringify({
       version: "1",
       imageUrl: "https://kai-nova-sisters-protocol-kntws.vercel.app/og-image.png",
