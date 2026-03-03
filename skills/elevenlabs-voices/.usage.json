@@ -1,0 +1,142 @@
+{
+  "total_characters": 14515,
+  "total_requests": 27,
+  "sessions": [
+    {
+      "timestamp": "2026-02-15T01:59:56.242860",
+      "characters": 106,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T01:59:58.318045",
+      "characters": 201,
+      "voice": "adam"
+    },
+    {
+      "timestamp": "2026-02-15T02:12:04.113615",
+      "characters": 362,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T02:16:03.721380",
+      "characters": 361,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T02:21:12.090340",
+      "characters": 251,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T02:21:15.793815",
+      "characters": 244,
+      "voice": "adam"
+    },
+    {
+      "timestamp": "2026-02-15T02:38:08.678529",
+      "characters": 526,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T02:47:10.471162",
+      "characters": 602,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T02:52:17.488293",
+      "characters": 436,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T03:01:40.105943",
+      "characters": 323,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T03:04:24.468329",
+      "characters": 441,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T03:44:56.882687",
+      "characters": 507,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T03:46:03.561496",
+      "characters": 507,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T03:53:04.786778",
+      "characters": 528,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T03:56:28.454806",
+      "characters": 541,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T04:23:52.687693",
+      "characters": 945,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T04:27:24.010433",
+      "characters": 795,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T04:33:15.097373",
+      "characters": 814,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T04:40:00.519347",
+      "characters": 664,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T04:48:36.592979",
+      "characters": 613,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-15T04:55:59.361798",
+      "characters": 499,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-16T01:53:23.573343",
+      "characters": 449,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-16T02:00:08.725365",
+      "characters": 522,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-16T02:16:05.281925",
+      "characters": 977,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-16T02:23:04.840447",
+      "characters": 907,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-16T02:29:12.155778",
+      "characters": 889,
+      "voice": "rachel"
+    },
+    {
+      "timestamp": "2026-02-16T02:35:56.248425",
+      "characters": 505,
+      "voice": "rachel"
+    }
+  ],
+  "last_reset": "2026-02-15T01:59:56.242844"
+}
